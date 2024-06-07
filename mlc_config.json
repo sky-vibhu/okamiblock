@@ -1,0 +1,13 @@
+{
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "20s",
+  "ignorePatterns": [
+    {
+      "pattern": "^(http|https)://twitter.com/OkamiOrg"
+    },
+    {
+      "pattern": "^(http|https)://immunefi.com/bounty/okami/"
+    }
+  ]
+}

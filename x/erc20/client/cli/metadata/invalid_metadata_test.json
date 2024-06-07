@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "aOKM",
+          "exponent": 0
+        },
+        {
+          "denom": "okami",
+          "exponent": 18
+        }
+      ],
+      "base": "aOKM",
+      "display": "aOKM",
+      "name": "aOKM",
+      "symbol": "OKAMI"
+    }
+  ]
+}
